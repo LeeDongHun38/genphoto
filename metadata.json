@@ -1,0 +1,7 @@
+{
+  "name": "AI ID Photo Generator",
+  "description": "Instantly convert your photos into professional ID pictures using AI. Upload an image or use your webcam, then customize the background, lighting, and more with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
